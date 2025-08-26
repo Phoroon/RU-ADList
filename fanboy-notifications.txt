@@ -1,8 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ubdFl14ha3Gm5SlX354xHA
-! Version: 202507301241
+! Checksum: bNjMV6TeohzEmT/2oVFlUA
+! id: 5BD2BB73-459D-4A74-AF9D-A10157268350
+! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/fanboy-notifications/74db42c0e934d2872bfafe48ce057c2ce783b65d.json
+! Version: 202508250701
 ! Title: Fanboy's Notifications Blocking List
-! Last modified: 30 Jul 2025 12:41 UTC
+! Last modified: 25 Aug 2025 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -655,6 +657,7 @@
 ||futura-sciences.com/clientscript/push.js
 ||horoscope.fr/notifications/
 ||informazione.it/wr/promo-miainfo.js
+||japan.cnet.com/static/js/webpush/push.js
 ||kompas.com/firebase-messaging-sw.js
 ||metrobilbao.eus/firebase-messaging-sw.js
 ||push.idowa.de^
@@ -701,6 +704,7 @@ airship.com##.PushNotification
 chaturbate.com##.RoomSignupPopup
 reddit.com##.XPromoBlockingModal
 reddit.com##.XPromoInFeed
+aliexpress.com,aliexpress.us##._3KrBP
 improvethenews.org##.__floater
 nzherald.co.nz##.action-bar
 fanblogs.jp##.aff-notice
@@ -806,7 +810,7 @@ radio.net###always-visible-banner-desktop-banner
 trakt.tv###android-beta-wrapper
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws###app > div.visible > div[role="dialog"][jsaction^="focusout:promotion.dismiss;"]
 backnumber.info###app-bnr
-m.calciomercato.com###app-download
+m.calciomercato.com,rei.com###app-download
 rugbypass.com###app-install
 kriptomat.io###app-popup
 sports.yahoo.com###app-promo
@@ -936,6 +940,7 @@ gumtree.com.au##.app-download-wrapper
 techfeed.io##.app-install-banner
 hindustantimes.com##.app-link
 news.yahoo.com,tracker.gg##.app-promo
+sunday-webry.com##.app-read-content
 atlasobscura.com##.app-store-heading
 banggood.com##.app-top-bar
 banggood.com##.app-top-height
@@ -1144,6 +1149,7 @@ sbs.com.au##.pane-bean-in-house-ad
 islambook.com##.panel-danger
 dahuasecurity.com##.partners
 pbtech.co.nz##.pb-app
+people.com##.people-sc-block-featuredlink--people-app-promo
 shazam.com##.phones
 onlineradiobox.com##.playmarket
 pocketnet.app##.popup
@@ -1220,6 +1226,7 @@ qwant.com##[class*="DownloadQwantApp-module_"]
 qwant.com##[class*="MobileAppToast-module_"]
 substack.com##[class*="frontend-components-SubscribePrompt"]
 m.yelp.com##[data-ga-label="Open in App"]
+sogongdongtofuhouse.com##[data-hook="wix-app-banner"]
 opentable.com##[data-test="app-upsell-button"]
 m.yelp.com##[data-testid="OpenAppButton"]
 reddit.com##[data-testid="bottom-cell-wrapper"]
@@ -1239,7 +1246,9 @@ reddit.com##[slot="use-app"]
 timesofindia.indiatimes.com##[text="Continue On App"]
 asahi.com##[x-component-name="SmartBanner"]
 snkrdunk.com##a.d-block[href="https://snkrdunkapp.page.link/ZwvZ"]
+snkrdunk.com##app-banner
 ups.com##app-promotion-popup
+homes.co.jp##aside[aria-label="LIFULL HOME'S 無料アプリでもっと便利に"]
 google.ad,google.ae,google.al,google.am,google.as,google.at,google.az,google.ba,google.be,google.bf,google.bg,google.bi,google.bj,google.bs,google.bt,google.by,google.ca,google.cat,google.cd,google.cf,google.cg,google.ch,google.ci,google.cl,google.cm,google.cn,google.co.ao,google.co.bw,google.co.ck,google.co.cr,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.ls,google.co.ma,google.co.mz,google.co.nz,google.co.th,google.co.tz,google.co.ug,google.co.uk,google.co.uz,google.co.ve,google.co.vi,google.co.za,google.co.zm,google.co.zw,google.com,google.com.af,google.com.ag,google.com.ai,google.com.ar,google.com.au,google.com.bd,google.com.bh,google.com.bn,google.com.bo,google.com.br,google.com.bz,google.com.co,google.com.cu,google.com.cy,google.com.do,google.com.ec,google.com.eg,google.com.et,google.com.fj,google.com.gh,google.com.gi,google.com.gt,google.com.hk,google.com.jm,google.com.kh,google.com.kw,google.com.lb,google.com.ly,google.com.mm,google.com.mt,google.com.mx,google.com.my,google.com.na,google.com.nf,google.com.ng,google.com.ni,google.com.np,google.com.om,google.com.pa,google.com.pe,google.com.pg,google.com.ph,google.com.pk,google.com.pr,google.com.py,google.com.qa,google.com.sa,google.com.sb,google.com.sg,google.com.sl,google.com.sv,google.com.tj,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vc,google.com.vn,google.cv,google.cz,google.de,google.dj,google.dk,google.dm,google.dz,google.ee,google.es,google.fi,google.fm,google.fr,google.ga,google.ge,google.gg,google.gl,google.gm,google.gp,google.gr,google.gy,google.hn,google.hr,google.ht,google.hu,google.ie,google.im,google.iq,google.is,google.it,google.je,google.jo,google.kg,google.ki,google.kz,google.la,google.li,google.lk,google.lt,google.lu,google.lv,google.md,google.me,google.mg,google.mk,google.ml,google.mn,google.ms,google.mu,google.mv,google.mw,google.ne,google.nl,google.no,google.nr,google.nu,google.pl,google.pn,google.ps,google.pt,google.ro,google.rs,google.ru,google.rw,google.sc,google.se,google.sh,google.si,google.sk,google.sm,google.sn,google.so,google.sr,google.st,google.td,google.tg,google.tk,google.tl,google.tm,google.tn,google.to,google.tt,google.vg,google.vu,google.ws##body > div[style="min-height: 100%; display: none;"] + div[style="visibility: visible;"] > div[jsowner]
 reddit.com##bottom-bar[app-link-params]
 areena.yle.fi##button[aria-label="Jaa ohjelma"]
@@ -1278,6 +1287,7 @@ news.bitcoin.com##.cwDafx:has-text(Continue in the Bitcoin.com App)
 dexerto.com##.fixed.lg\:w-\[750px\]:has-text(Stay Updated)
 dailynews24.in##.gb-button:has-text(Open App)
 kayak.com##.gkz0-toast:has-text(Get Price Alerts)
+dexerto.com##.min-h-16:has-text(Get Notifications)
 chatgpt.com##.z-20.bottom-full:has-text(Get Extension)
 mail.proton.me##[aria-label="Notification"]:has-text(app)
 abc.net.au#?#[data-component="RelatedCard"]:-abp-contains(Stream your favourite shows)
